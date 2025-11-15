@@ -37,7 +37,7 @@ const dom = {
 
 // Replace with your actual track list — filenames must match disk
 const TRACKS = [
-  { title: 'Umgane Wami', src: 'Umgane Wami.mp3', lyrics: '[00:00] Intro line for Umgane Wami\n[00:12] First verse line' },
+  { title: 'Umgane Wami', src: 'Umgane Wami.mp3', lyrics: '[00:14]Umgane wami\n[00:18] Akathand luthando\n[00:22] Hamba kuyona leyandzawo\n[00:26] Angeke ngimfune\n[00:31] Umgane wami\n[00:34] Akathand luthando\n[00:38] Hamba kuyona leyandzawo\n[00:42] Angeke ngimfune\n[00:47] Umgane wami\n[00:50] Akathand luthando\n[00:54] Hamba kuyona leyandzawo\n[00:58] Angeke ngimfune\n[01:02]Andiz ba umfokazi\n[01:06]Angeke ngimfune\n[01:10]Uyazi as dzinge lutfo\n[01:14]Uthando luyingoti\n[01:19]\n[01:22\n[01:26]\n[01:30]\n[01:35]\n[01:38]\n[01:42]\n[01:46]\n[02:19]'},
   { title: 'O A Nkata', src: 'O A Nkata.mp3', lyrics: '[00:00] Intro line for O A Nkata' },
   { title: 'Ukahlelani', src: 'Ukahlelani.mp3', lyrics: '[00:00] Intro line for Ukahlelani' },
   { title: 'Peace Release', src: 'Peace Release.mp3', lyrics: '' },
